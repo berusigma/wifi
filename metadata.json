@@ -1,0 +1,6 @@
+{
+  "name": "WiFi Stress Test",
+  "description": "Native WiFi scanner, network connector, and high-performance network traffic stress tester.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
